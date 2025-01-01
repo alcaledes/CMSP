@@ -5938,3 +5938,12 @@ java.lang.IllegalArgumentException: Book armorplus:guide_book has use_resource_p
 [01Jan2025 14:35:06.009] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [01Jan2025 14:40:06.005] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Jan2025 14:40:06.022] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jan2025 14:40:22.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chawo: Set the time to 1000]
+[01Jan2025 14:40:41.781] [Worker-Main-9/DEBUG] [ModernFix/]: Structure solarcraft:worldgen_features/ruins1 is being run through DFU (hash 9e47c21e08542a5ec4b7c671bd03d60a29f37839becb0946c6d89e4e4ccfa555), this will cause launch time delays
+[01Jan2025 14:41:04.655] [Worker-Main-22/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior216
+[01Jan2025 14:41:05.877] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of solarcraft:worldgen_features/energy_pylon_giro
+[01Jan2025 14:41:07.311] [Worker-Main-28/DEBUG] [ModernFix/]: Structure solarcraft:worldgen_features/energy_pylon_fira is being run through DFU (hash 82978b35c5ddbdacb2a10523c86d1f052a3081967911fe89c2d421e4424bd815), this will cause launch time delays
+[01Jan2025 14:45:06.014] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 14:45:06.027] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jan2025 14:50:05.990] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 14:50:06.006] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
