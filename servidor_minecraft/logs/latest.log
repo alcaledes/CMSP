@@ -752,3 +752,5 @@ java.lang.IllegalArgumentException: Book armorplus:guide_book has use_resource_p
 [01Jan2025 16:48:58.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rdrxx_88 was slain by chawito
 [01Jan2025 16:49:07.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rdrxx_88 was slain by chawito
 [01Jan2025 16:49:24.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rdrxx_88: Set own game mode to Creative Mode]
+[01Jan2025 16:52:42.039] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: chawito lost connection: Timed out
+[01Jan2025 16:52:42.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chawito left the game
