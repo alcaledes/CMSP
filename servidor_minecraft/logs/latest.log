@@ -718,3 +718,37 @@ java.lang.IllegalArgumentException: Book armorplus:guide_book has use_resource_p
 [01Jan2025 16:41:01.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chawito left the game
 [01Jan2025 16:41:04.037] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodrixx_88 lost connection: Timed out
 [01Jan2025 16:41:04.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DIOZESS] Rodrixx_88 left the game
+[01Jan2025 16:41:31.196] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: chawito[/[::1]:39146] logged in with entity id 24386 at (17.599727449819426, 130.48784648279633, -23.975024261787052)
+[01Jan2025 16:41:31.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chawito joined the game
+[01Jan2025 16:41:31.237] [Server thread/INFO] [Jade/]: Syncing config to chawito (26381d92-30e3-3923-8274-5ac1781a8db9)
+[01Jan2025 16:42:20.249] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rodrixx_88[/[::1]:58572] logged in with entity id 24859 at (15.983945229006757, 130.0, -24.870306369805814)
+[01Jan2025 16:42:20.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DIOZESS] Rodrixx_88 joined the game
+[01Jan2025 16:42:20.320] [Server thread/INFO] [Jade/]: Syncing config to Rodrixx_88 (7ab8d35d-3d46-3ae8-bb57-4f1c255be1b2)
+[01Jan2025 16:44:46.688] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: chawito lost connection: Timed out
+[01Jan2025 16:44:46.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chawito left the game
+[01Jan2025 16:44:50.588] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodrixx_88 lost connection: Timed out
+[01Jan2025 16:44:50.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DIOZESS] Rodrixx_88 left the game
+[01Jan2025 16:45:16.000] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: chawito[/[::1]:37044] logged in with entity id 25207 at (13.506758786461631, 130.0, -30.14086575533228)
+[01Jan2025 16:45:16.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chawito joined the game
+[01Jan2025 16:45:16.068] [Server thread/INFO] [Jade/]: Syncing config to chawito (26381d92-30e3-3923-8274-5ac1781a8db9)
+[01Jan2025 16:45:46.085] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: chawito lost connection: Timed out
+[01Jan2025 16:45:46.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chawito left the game
+[01Jan2025 16:46:11.744] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: chawito[/[::1]:58482] logged in with entity id 25286 at (13.506758786461631, 130.0, -30.14086575533228)
+[01Jan2025 16:46:11.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chawito joined the game
+[01Jan2025 16:46:11.798] [Server thread/INFO] [Jade/]: Syncing config to chawito (26381d92-30e3-3923-8274-5ac1781a8db9)
+[01Jan2025 16:46:26.591] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rdrxx_88[/[::1]:38678] logged in with entity id 25344 at (16.5, 99.0, -9.5)
+[01Jan2025 16:46:26.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rdrxx_88 joined the game
+[01Jan2025 16:46:26.647] [Server thread/INFO] [Jade/]: Syncing config to Rdrxx_88 (3c6b0814-5da6-3828-8e78-2d680ab5cbab)
+[01Jan2025 16:46:41.885] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: chawito lost connection: Timed out
+[01Jan2025 16:46:41.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chawito left the game
+[01Jan2025 16:47:11.552] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: chawito[/[::1]:50976] logged in with entity id 25425 at (13.506758786461631, 130.0, -30.14086575533228)
+[01Jan2025 16:47:11.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chawito joined the game
+[01Jan2025 16:47:11.618] [Server thread/INFO] [Jade/]: Syncing config to chawito (26381d92-30e3-3923-8274-5ac1781a8db9)
+[01Jan2025 16:47:25.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chawito: Made Rdrxx_88 a server operator]
+[01Jan2025 16:47:35.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chawito: Set Rdrxx_88's game mode to Creative Mode]
+[01Jan2025 16:48:31.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rdrxx_88: Set spawn point to 19, 130, -25 [0.0] in minecraft:overworld for 2 players]
+[01Jan2025 16:48:41.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chawito has made the advancement [Monster Hunter]
+[01Jan2025 16:48:48.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rdrxx_88: Set own game mode to Survival Mode]
+[01Jan2025 16:48:58.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rdrxx_88 was slain by chawito
+[01Jan2025 16:49:07.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rdrxx_88 was slain by chawito
+[01Jan2025 16:49:24.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rdrxx_88: Set own game mode to Creative Mode]
