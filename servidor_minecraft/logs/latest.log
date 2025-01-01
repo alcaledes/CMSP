@@ -647,3 +647,4 @@ java.lang.IllegalArgumentException: Book armorplus:guide_book has use_resource_p
 [01Jan2025 15:20:24.038] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2dab5f2f[id=<null>,name=Rodrixx_88,properties={},legacy=false] (/[::1]:48074) lost connection: Took too long to log in
 [01Jan2025 15:20:24.088] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [01Jan2025 15:20:35.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chawo: Updated the color for team [los_diozes] to light_purple]
+[01Jan2025 15:38:16.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[DIOZES] chawo: Set the weather to clear]
