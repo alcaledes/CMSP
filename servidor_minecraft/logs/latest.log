@@ -668,3 +668,12 @@ java.lang.IllegalArgumentException: Book armorplus:guide_book has use_resource_p
 [01Jan2025 15:56:32.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[DIOZESS] chawo: Teleported [DIOZESS] chawo to [DIOZESS] Rodrixx_88]
 [01Jan2025 15:57:58.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[DIOZESS] chawo: Set the time to 1000]
 [01Jan2025 16:02:57.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DIOZESS] chawo has made the advancement [Cover Me with Diamonds]
+[01Jan2025 16:14:30.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[DIOZESS] Rodrixx_88: Set the time to 1000]
+[01Jan2025 16:14:47.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[DIOZESS] Rodrixx_88: Applied effect Night Vision to 2 targets]
+[01Jan2025 16:15:07.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DIOZESS] Rodrixx_88 was killed
+[01Jan2025 16:15:07.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[DIOZESS] Rodrixx_88: Killed [DIOZESS] Rodrixx_88]
+[01Jan2025 16:19:14.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DIOZESS] Rodrixx_88 was killed
+[01Jan2025 16:19:14.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[DIOZESS] Rodrixx_88: Killed [DIOZESS] Rodrixx_88]
+[01Jan2025 16:19:44.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[DIOZESS] Rodrixx_88: Set spawn point to 19, 130, -25 [0.0] in minecraft:overworld for 2 players]
+[01Jan2025 16:20:02.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DIOZESS] Rodrixx_88 was killed
+[01Jan2025 16:20:02.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[DIOZESS] Rodrixx_88: Killed [DIOZESS] Rodrixx_88]
