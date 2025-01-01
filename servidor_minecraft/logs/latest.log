@@ -677,3 +677,33 @@ java.lang.IllegalArgumentException: Book armorplus:guide_book has use_resource_p
 [01Jan2025 16:19:44.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[DIOZESS] Rodrixx_88: Set spawn point to 19, 130, -25 [0.0] in minecraft:overworld for 2 players]
 [01Jan2025 16:20:02.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DIOZESS] Rodrixx_88 was killed
 [01Jan2025 16:20:02.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[DIOZESS] Rodrixx_88: Killed [DIOZESS] Rodrixx_88]
+[01Jan2025 16:22:13.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DIOZESS] chawo was killed
+[01Jan2025 16:22:13.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[DIOZESS] chawo: Killed [DIOZESS] chawo]
+[01Jan2025 16:22:42.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DIOZESS] chawo was killed
+[01Jan2025 16:22:42.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[DIOZESS] chawo: Killed [DIOZESS] chawo]
+[01Jan2025 16:24:13.036] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: chawo lost connection: Timed out
+[01Jan2025 16:24:13.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DIOZESS] chawo left the game
+[01Jan2025 16:24:45.388] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: chawito[/[::1]:39812] logged in with entity id 21322 at (18.5, 99.0, -13.5)
+[01Jan2025 16:24:45.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chawito joined the game
+[01Jan2025 16:24:45.445] [Server thread/INFO] [Jade/]: Syncing config to chawito (26381d92-30e3-3923-8274-5ac1781a8db9)
+[01Jan2025 16:24:57.953] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=18, y=98, z=-14}
+[01Jan2025 16:24:58.237] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=18, y=98, z=-14}
+[01Jan2025 16:24:58.448] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=18, y=98, z=-14}
+[01Jan2025 16:25:12.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Rodrixx_88 a server operator
+[01Jan2025 16:25:21.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chawito: Set own game mode to Creative Mode]
+[01Jan2025 16:26:15.685] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: chawito lost connection: Timed out
+[01Jan2025 16:26:15.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chawito left the game
+[01Jan2025 16:27:02.589] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AlvaroUriel1113[/[::1]:53612] logged in with entity id 21584 at (7.5, 102.0, -16.5)
+[01Jan2025 16:27:02.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlvaroUriel1113 joined the game
+[01Jan2025 16:27:02.629] [Server thread/INFO] [Jade/]: Syncing config to AlvaroUriel1113 (370f8345-a47d-3c57-af20-f7558606e818)
+[01Jan2025 16:27:19.560] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=10, y=100, z=-13}
+[01Jan2025 16:27:19.617] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=10, y=100, z=-13}
+[01Jan2025 16:27:20.054] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=11, y=100, z=-12}
+[01Jan2025 16:27:20.267] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=13, y=98, z=-9}
+[01Jan2025 16:27:20.515] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=12, y=99, z=-10}
+[01Jan2025 16:27:35.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set AlvaroUriel1113's game mode to Creative Mode
+[01Jan2025 16:28:02.735] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlvaroUriel1113 lost connection: Timed out
+[01Jan2025 16:28:02.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlvaroUriel1113 left the game
+[01Jan2025 16:29:00.009] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: chawito[/[::1]:54240] logged in with entity id 21788 at (16.98827801889629, 130.0, -22.713037834499154)
+[01Jan2025 16:29:00.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chawito joined the game
+[01Jan2025 16:29:00.124] [Server thread/INFO] [Jade/]: Syncing config to chawito (26381d92-30e3-3923-8274-5ac1781a8db9)
