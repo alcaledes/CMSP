@@ -653,3 +653,17 @@ java.lang.IllegalArgumentException: Book armorplus:guide_book has use_resource_p
 [01Jan2025 15:50:31.593] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rodrixx_88[/[::1]:51834] logged in with entity id 12605 at (6.5, 101.0, -19.5)
 [01Jan2025 15:50:31.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodrixx_88 joined the game
 [01Jan2025 15:50:31.658] [Server thread/INFO] [Jade/]: Syncing config to Rodrixx_88 (7ab8d35d-3d46-3ae8-bb57-4f1c255be1b2)
+[01Jan2025 15:50:44.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[DIOZES] chawo: Made Rodrixx_88 a server operator]
+[01Jan2025 15:51:03.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[DIOZES] chawo: Added Rodrixx_88 to team [los_diozes]]
+[01Jan2025 15:52:38.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DIOZES] Rodrixx_88 has made the advancement [Alex's Mobs]
+[01Jan2025 15:54:46.898] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodrixx_88 lost connection: Timed out
+[01Jan2025 15:54:46.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DIOZESS] Rodrixx_88 left the game
+[01Jan2025 15:54:46.960] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Jan2025 15:54:59.209] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rodrixx_88[/[::1]:41154] logged in with entity id 13834 at (-0.49950335557934616, 101.0, -29.4813176267252)
+[01Jan2025 15:54:59.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DIOZESS] Rodrixx_88 joined the game
+[01Jan2025 15:54:59.268] [Server thread/INFO] [Jade/]: Syncing config to Rodrixx_88 (7ab8d35d-3d46-3ae8-bb57-4f1c255be1b2)
+[01Jan2025 15:55:01.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nothing changed. The player already is an operator
+[01Jan2025 15:55:14.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nothing changed. The player already is an operator
+[01Jan2025 15:56:17.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[DIOZESS] chawo: Set [DIOZESS] Rodrixx_88's game mode to Creative Mode]
+[01Jan2025 15:56:32.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[DIOZESS] chawo: Teleported [DIOZESS] chawo to [DIOZESS] Rodrixx_88]
+[01Jan2025 15:57:58.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[DIOZESS] chawo: Set the time to 1000]
