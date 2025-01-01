@@ -707,3 +707,14 @@ java.lang.IllegalArgumentException: Book armorplus:guide_book has use_resource_p
 [01Jan2025 16:29:00.009] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: chawito[/[::1]:54240] logged in with entity id 21788 at (16.98827801889629, 130.0, -22.713037834499154)
 [01Jan2025 16:29:00.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chawito joined the game
 [01Jan2025 16:29:00.124] [Server thread/INFO] [Jade/]: Syncing config to chawito (26381d92-30e3-3923-8274-5ac1781a8db9)
+[01Jan2025 16:33:14.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chawito has made the advancement [Hot Stuff]
+[01Jan2025 16:34:25.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chawito has made the advancement [Stone Age]
+[01Jan2025 16:37:29.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DIOZESS] Rodrixx_88 has made the advancement [Diamonds!]
+[01Jan2025 16:37:46.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chawito: Teleported chawito to [DIOZESS] Rodrixx_88]
+[01Jan2025 16:38:40.876] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4595ms or 91 ticks behind
+[01Jan2025 16:38:49.315] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodrixx_88 moved too quickly! 275.79108067740196,-90.92159999847412,-252.20511523966766
+[01Jan2025 16:39:04.999] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodrixx_88 moved too quickly! -273.05775077107296,91.07840000152588,251.2969822577145
+[01Jan2025 16:41:01.037] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: chawito lost connection: Timed out
+[01Jan2025 16:41:01.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chawito left the game
+[01Jan2025 16:41:04.037] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodrixx_88 lost connection: Timed out
+[01Jan2025 16:41:04.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DIOZESS] Rodrixx_88 left the game

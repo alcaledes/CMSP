@@ -7103,3 +7103,34 @@ java.lang.IllegalArgumentException: Book armorplus:guide_book has use_resource_p
 [01Jan2025 16:29:00.124] [Server thread/INFO] [Jade/]: Syncing config to chawito (26381d92-30e3-3923-8274-5ac1781a8db9)
 [01Jan2025 16:30:06.010] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Jan2025 16:30:06.022] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jan2025 16:33:14.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chawito has made the advancement [Hot Stuff]
+[01Jan2025 16:34:25.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chawito has made the advancement [Stone Age]
+[01Jan2025 16:35:06.001] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 16:35:06.014] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jan2025 16:37:29.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DIOZESS] Rodrixx_88 has made the advancement [Diamonds!]
+[01Jan2025 16:37:46.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chawito: Teleported chawito to [DIOZESS] Rodrixx_88]
+[01Jan2025 16:38:36.279] [Server thread/DEBUG] [twilightforest/]: Did not find existing portal, making a new one.
+[01Jan2025 16:38:36.284] [Server thread/DEBUG] [twilightforest/]: Portal destination looks unsafe, rerouting!
+[01Jan2025 16:38:36.286] [Server thread/DEBUG] [twilightforest/]: Safely rerouted!
+[01Jan2025 16:38:39.045] [Server thread/DEBUG] [twilightforest/]: Did not find ideal portal spot, shooting for okay one for chawito
+[01Jan2025 16:38:39.050] [Server thread/DEBUG] [twilightforest/]: Found okay portal spot for chawito at BlockPos{x=327, y=4, z=-281}
+[01Jan2025 16:38:39.281] [Server thread/DEBUG] [twilightforest/]: Caching Dest Portal Blocks to BlockPos{x=53, y=95, z=-29}
+[01Jan2025 16:38:39.286] [Server thread/DEBUG] [twilightforest/]: Caching Src Portal Blocks to BlockPos{x=327, y=4, z=-281}
+[01Jan2025 16:38:39.287] [Server thread/DEBUG] [twilightforest/]: Caching BlockPos{x=53, y=95, z=-29}
+[01Jan2025 16:38:39.287] [Server thread/DEBUG] [twilightforest/]: Caching BlockPos{x=52, y=95, z=-29}
+[01Jan2025 16:38:39.287] [Server thread/DEBUG] [twilightforest/]: Caching BlockPos{x=53, y=95, z=-30}
+[01Jan2025 16:38:39.287] [Server thread/DEBUG] [twilightforest/]: Caching BlockPos{x=52, y=95, z=-30}
+[01Jan2025 16:38:40.828] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=327, y=4, z=-281}
+[01Jan2025 16:38:40.876] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4595ms or 91 ticks behind
+[01Jan2025 16:38:49.315] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodrixx_88 moved too quickly! 275.79108067740196,-90.92159999847412,-252.20511523966766
+[01Jan2025 16:38:59.361] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=53, y=95, z=-29}
+[01Jan2025 16:39:01.270] [Worker-Main-28/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/start_castle
+[01Jan2025 16:39:02.138] [Worker-Main-66/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/smallminingoutpost
+[01Jan2025 16:39:04.999] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodrixx_88 moved too quickly! -273.05775077107296,91.07840000152588,251.2969822577145
+[01Jan2025 16:39:09.045] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=53, y=95, z=-29}
+[01Jan2025 16:40:10.553] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 16:40:10.569] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jan2025 16:41:01.037] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: chawito lost connection: Timed out
+[01Jan2025 16:41:01.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chawito left the game
+[01Jan2025 16:41:04.037] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodrixx_88 lost connection: Timed out
+[01Jan2025 16:41:04.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DIOZESS] Rodrixx_88 left the game
