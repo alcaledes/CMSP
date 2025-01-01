@@ -6514,3 +6514,23 @@ java.lang.IllegalArgumentException: Book armorplus:guide_book has use_resource_p
 [01Jan2025 16:00:06.023] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Jan2025 16:00:06.037] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [01Jan2025 16:00:14.954] [Worker-Main-79/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior1
+[01Jan2025 16:01:32.270] [Worker-Main-79/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_firepit is being run through DFU (hash f1c61aee919af5b4328b00946297488c1ae6298e8368899493ef1e2f912cd68d), this will cause launch time delays
+[01Jan2025 16:01:32.354] [Worker-Main-79/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthi_throne is being run through DFU (hash fe56ff13945da4037a3304881f981a2d446bd3d8011f0673dd029d88bd38d2d7), this will cause launch time delays
+[01Jan2025 16:01:32.520] [Worker-Main-79/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_platform_2 is being run through DFU (hash 760dec3596d4f025d1c5cf7f2641193f29d165e4ae8fcc344d06435c6a32ac58), this will cause launch time delays
+[01Jan2025 16:01:32.535] [Worker-Main-79/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_platform_extend is being run through DFU (hash 02ee3988b5d2680529a144e8cf8abc69d71a674c8feb16925c671e0fedbca653), this will cause launch time delays
+[01Jan2025 16:01:32.566] [Worker-Main-79/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_platform_1 is being run through DFU (hash 761c6ed2072fe7e2915febc169f20d4b644f8695f5e9dd9719bcab1cbe1e4127), this will cause launch time delays
+[01Jan2025 16:01:32.611] [Worker-Main-79/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_tree_2 is being run through DFU (hash 1379096a7a49bd6673e2d616c0bdfceedaa1ac4f8e60238437a7fb0d90ea3111), this will cause launch time delays
+[01Jan2025 16:01:32.649] [Worker-Main-79/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_tree_1 is being run through DFU (hash adaed3887d364fa75eefd197e87cd281605ab4caec4441c9abadf64eb3836771), this will cause launch time delays
+[01Jan2025 16:01:32.686] [Worker-Main-79/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_firepit_small_1 is being run through DFU (hash c0a2ab40feea0429b2fdd2197c7dc7726ed142ffae8b437e57614aeb5118cd53), this will cause launch time delays
+[01Jan2025 16:01:32.765] [Worker-Main-79/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_spike_4 is being run through DFU (hash 83cbc6cdf72ab1b09f2ca868d918388ed6e0d35f8da2161960420f5d37c03bbd), this will cause launch time delays
+[01Jan2025 16:01:32.781] [Worker-Main-79/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_spike_1 is being run through DFU (hash 592b09a6abd24a3d4c7e68dbe797dff2bf244aff6ec0e07d398fac23d00f5c49), this will cause launch time delays
+[01Jan2025 16:01:32.799] [Worker-Main-79/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_spike_2 is being run through DFU (hash f994a4d00e2db8d208572e9f72e67c3379bbabfd99dbd8865046ffe941573796), this will cause launch time delays
+[01Jan2025 16:01:32.859] [Worker-Main-79/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_spike_3 is being run through DFU (hash 4322167294d5c4acf589da61f48b80c66fc3b43657a11d1f1ca8a1004f7b0a19), this will cause launch time delays
+[01Jan2025 16:02:30.725] [Worker-Main-79/DEBUG] [ModernFix/]: Using cached upgraded version of solarcraft:worldgen_features/energy_pylon_fira
+[01Jan2025 16:02:46.452] [Worker-Main-66/DEBUG] [ModernFix/]: Structure alexscaves:underground_cabin_1 is being run through DFU (hash 93b719aa290210e2d5bb0647155c9ae0b3a4059be3874de3f94c9d85a5f6f321), this will cause launch time delays
+[01Jan2025 16:02:47.636] [Worker-Main-79/DEBUG] [ModernFix/]: Structure solarcraft:worldgen_features/energy_pylon_zeta is being run through DFU (hash 5178cc5ec5e8498a286f4e74c6a353d2f68c2dd4cac2b66675b219cead014c11), this will cause launch time delays
+[01Jan2025 16:02:57.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DIOZESS] chawo has made the advancement [Cover Me with Diamonds]
+[01Jan2025 16:05:06.020] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 16:05:06.036] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jan2025 16:10:06.005] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 16:10:06.020] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

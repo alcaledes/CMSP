@@ -667,3 +667,4 @@ java.lang.IllegalArgumentException: Book armorplus:guide_book has use_resource_p
 [01Jan2025 15:56:17.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[DIOZESS] chawo: Set [DIOZESS] Rodrixx_88's game mode to Creative Mode]
 [01Jan2025 15:56:32.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[DIOZESS] chawo: Teleported [DIOZESS] chawo to [DIOZESS] Rodrixx_88]
 [01Jan2025 15:57:58.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[DIOZESS] chawo: Set the time to 1000]
+[01Jan2025 16:02:57.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DIOZESS] chawo has made the advancement [Cover Me with Diamonds]
