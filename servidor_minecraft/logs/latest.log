@@ -635,3 +635,14 @@ java.lang.IllegalArgumentException: Book armorplus:guide_book has use_resource_p
 [01Jan2025 14:21:17.719] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Bee['Bee'/908, l='ServerLevel[world]', x=-409.29, y=67.89, z=183.91]
 [01Jan2025 14:40:22.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chawo: Set the time to 1000]
 [01Jan2025 14:55:07.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chawo: Set the time to 1000]
+[01Jan2025 15:11:17.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chawo: Set the time to 1000]
+[01Jan2025 15:11:52.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chawo: Created team [Lo_diozes]]
+[01Jan2025 15:12:06.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chawo: Added chawo to team [Lo_diozes]]
+[01Jan2025 15:12:24.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chawo: Updated the color for team [Lo_diozes] to gold]
+[01Jan2025 15:12:46.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chawo: Updated the name of team [true]]
+[01Jan2025 15:17:20.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chawotrue: Removed team [true]]
+[01Jan2025 15:17:49.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chawo: Created team [los_diozes]]
+[01Jan2025 15:20:21.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chawo: Added chawo to team [los_diozes]]
+[01Jan2025 15:20:24.037] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@2dab5f2f[id=<null>,name=Rodrixx_88,properties={},legacy=false] (/[::1]:48074): Took too long to log in
+[01Jan2025 15:20:24.038] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2dab5f2f[id=<null>,name=Rodrixx_88,properties={},legacy=false] (/[::1]:48074) lost connection: Took too long to log in
+[01Jan2025 15:20:24.088] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
