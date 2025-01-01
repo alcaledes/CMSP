@@ -648,3 +648,8 @@ java.lang.IllegalArgumentException: Book armorplus:guide_book has use_resource_p
 [01Jan2025 15:20:24.088] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [01Jan2025 15:20:35.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chawo: Updated the color for team [los_diozes] to light_purple]
 [01Jan2025 15:38:16.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[DIOZES] chawo: Set the weather to clear]
+[01Jan2025 15:41:51.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[DIOZES] chawo: Set the time to 1000]
+[01Jan2025 15:42:10.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[DIOZES] chawo: Updated the color for team [los_diozes] to gold]
+[01Jan2025 15:50:31.593] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rodrixx_88[/[::1]:51834] logged in with entity id 12605 at (6.5, 101.0, -19.5)
+[01Jan2025 15:50:31.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodrixx_88 joined the game
+[01Jan2025 15:50:31.658] [Server thread/INFO] [Jade/]: Syncing config to Rodrixx_88 (7ab8d35d-3d46-3ae8-bb57-4f1c255be1b2)
