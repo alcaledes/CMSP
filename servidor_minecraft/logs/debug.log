@@ -6115,3 +6115,8 @@ java.lang.IllegalArgumentException: Book armorplus:guide_book has use_resource_p
 [01Jan2025 15:20:24.037] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@2dab5f2f[id=<null>,name=Rodrixx_88,properties={},legacy=false] (/[::1]:48074): Took too long to log in
 [01Jan2025 15:20:24.038] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2dab5f2f[id=<null>,name=Rodrixx_88,properties={},legacy=false] (/[::1]:48074) lost connection: Took too long to log in
 [01Jan2025 15:20:24.088] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Jan2025 15:20:35.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chawo: Updated the color for team [los_diozes] to light_purple]
+[01Jan2025 15:25:05.987] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 15:25:06.002] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jan2025 15:30:05.991] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 15:30:06.006] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
