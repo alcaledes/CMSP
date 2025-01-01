@@ -5947,3 +5947,9 @@ java.lang.IllegalArgumentException: Book armorplus:guide_book has use_resource_p
 [01Jan2025 14:45:06.027] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [01Jan2025 14:50:05.990] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Jan2025 14:50:06.006] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jan2025 14:55:05.991] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 14:55:06.005] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jan2025 14:55:07.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chawo: Set the time to 1000]
+[01Jan2025 14:56:58.683] [Worker-Main-28/DEBUG] [ModernFix/]: Structure solarcraft:worldgen_features/energy_pylon_urba is being run through DFU (hash 28f77ea858c8309571caf61852d2c56f5df22a1d0e52a6af313b135e9c6e57bd), this will cause launch time delays
+[01Jan2025 15:00:05.995] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 15:00:06.012] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
