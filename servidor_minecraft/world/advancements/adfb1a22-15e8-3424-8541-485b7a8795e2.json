@@ -64,6 +64,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-01-03 17:36:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:creeper": "2025-01-03 16:26:06 +0000"
@@ -78,7 +84,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2025-01-03 17:03:42 +0000"
+      "bread": "2025-01-03 17:03:42 +0000",
+      "golden_apple": "2025-01-03 17:30:25 +0000"
     },
     "done": false
   },
@@ -121,6 +128,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-01-03 17:06:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-01-03 17:31:15 +0000"
     },
     "done": true
   },
