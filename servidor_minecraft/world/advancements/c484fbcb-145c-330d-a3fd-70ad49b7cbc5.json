@@ -19,6 +19,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:stony_shore": "2025-01-03 16:18:54 +0000",
       "minecraft:savanna": "2025-01-02 15:19:19 +0000"
     },
     "done": false
@@ -71,6 +72,12 @@
       "fiery_pick": "2025-01-02 15:33:45 +0000"
     },
     "done": false
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-01-03 16:17:14 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

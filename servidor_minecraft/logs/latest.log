@@ -580,3 +580,61 @@ java.lang.IllegalArgumentException: Book armorplus:guide_book has use_resource_p
 [03Jan2025 16:05:04.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[DIOZESS] chawito: Made Rdrx_88 a server operator]
 [03Jan2025 16:05:24.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rdrx_88: Set own game mode to Creative Mode]
 [03Jan2025 16:05:57.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rdrx_88: Teleported 4 entities to Rdrx_88]
+[03Jan2025 16:11:00.505] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: chawito lost connection: Timed out
+[03Jan2025 16:11:00.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DIOZESS] chawito left the game
+[03Jan2025 16:12:07.705] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@55ee57dd[id=<null>,name=chawito,properties={},legacy=false] (/[::1]:50276): Took too long to log in
+[03Jan2025 16:12:07.706] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@55ee57dd[id=<null>,name=chawito,properties={},legacy=false] (/[::1]:50276) lost connection: Took too long to log in
+[03Jan2025 16:12:07.755] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03Jan2025 16:12:15.399] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@60a9333[id=<null>,name=chawito,properties={},legacy=false] (/[::1]:47746) lost connection: Timed out
+[03Jan2025 16:12:32.802] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@40d7f529[id=<null>,name=chawito,properties={},legacy=false] (/[::1]:51950): Took too long to log in
+[03Jan2025 16:12:32.803] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@40d7f529[id=<null>,name=chawito,properties={},legacy=false] (/[::1]:51950) lost connection: Took too long to log in
+[03Jan2025 16:12:32.850] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03Jan2025 16:12:46.800] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@75d44fb1[id=<null>,name=chawito,properties={},legacy=false] (/[::1]:35274) lost connection: Timed out
+[03Jan2025 16:13:04.551] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1ef66ddc[id=<null>,name=chawito,properties={},legacy=false] (/[::1]:57766) lost connection: Timed out
+[03Jan2025 16:13:30.850] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: grillo11 lost connection: Timed out
+[03Jan2025 16:13:30.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo11 left the game
+[03Jan2025 16:13:58.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rdrx_88: Set the time to 1000]
+[03Jan2025 16:15:48.830] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: chawito[/[::1]:55440] logged in with entity id 3105 at (40.10500869724716, 92.0, -42.12038645211221)
+[03Jan2025 16:15:48.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DIOZESS] chawito joined the game
+[03Jan2025 16:15:49.014] [Server thread/INFO] [Jade/]: Syncing config to chawito (26381d92-30e3-3923-8274-5ac1781a8db9)
+[03Jan2025 16:16:39.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DIOZESS] chawito has reached the goal [I Am Become Death]
+[03Jan2025 16:16:56.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rdrx_88: Removed 21 item(s) from 3 players]
+[03Jan2025 16:17:11.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[DIOZESS] chawito: Added chawito to team [MAGO]]
+[03Jan2025 16:17:14.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]Davidge_265 has made the advancement [Amateur Archaeologist]
+[03Jan2025 16:17:22.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]chawito: Added Rdrx_88 to team [MAGO]]
+[03Jan2025 16:18:30.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]Rdrx_88: Set the world spawn point to 19, -27, 130 [0.0]]
+[03Jan2025 16:18:37.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]Rdrx_88: Removed 2 item(s) from 3 players]
+[03Jan2025 16:18:50.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]Davidge_265 was killed
+[03Jan2025 16:18:51.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]Rdrx_88 was killed
+[03Jan2025 16:18:51.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]chawito was killed
+[03Jan2025 16:18:51.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]Rdrx_88: Killed 3 entities]
+[03Jan2025 16:19:18.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]Rdrx_88: Removed 1 item(s) from 3 players]
+[03Jan2025 16:19:52.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]Davidge_265: Killed [MAGO]chawito]
+[03Jan2025 16:19:55.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]Rdrx_88: Set the world spawn point to 19, 130, -23 [0.0]]
+[03Jan2025 16:20:00.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]Rdrx_88 was killed
+[03Jan2025 16:20:00.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]Rdrx_88: Killed [MAGO]Rdrx_88]
+[03Jan2025 16:20:47.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]Rdrx_88: Removed 1 item(s) from player [MAGO]Davidge_265]
+[03Jan2025 16:21:52.650] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rdrx_88 lost connection: Timed out
+[03Jan2025 16:21:52.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]Rdrx_88 left the game
+[03Jan2025 16:22:25.207] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Davidge_265 lost connection: Timed out
+[03Jan2025 16:22:25.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]Davidge_265 left the game
+[03Jan2025 16:22:51.819] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Davidge_265[/[::1]:56524] logged in with entity id 4636 at (19.25392645640633, 130.0, -23.40591007414641)
+[03Jan2025 16:22:51.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]Davidge_265 joined the game
+[03Jan2025 16:22:51.897] [Server thread/INFO] [Jade/]: Syncing config to Davidge_265 (c484fbcb-145c-330d-a3fd-70ad49b7cbc5)
+[03Jan2025 16:23:21.949] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Davidge_265 lost connection: Timed out
+[03Jan2025 16:23:21.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]Davidge_265 left the game
+[03Jan2025 16:24:02.614] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Davidge_265[/[::1]:41654] logged in with entity id 4822 at (19.25392645640633, 130.0, -23.40591007414641)
+[03Jan2025 16:24:02.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]Davidge_265 joined the game
+[03Jan2025 16:24:02.669] [Server thread/INFO] [Jade/]: Syncing config to Davidge_265 (c484fbcb-145c-330d-a3fd-70ad49b7cbc5)
+[03Jan2025 16:24:41.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]chawito has made the advancement [Revive Me, I Have a Raygun]
+[03Jan2025 16:24:50.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]chawito: Set [MAGO]Davidge_265's game mode to Survival Mode]
+[03Jan2025 16:25:32.847] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Davidge_265 lost connection: Timed out
+[03Jan2025 16:25:32.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]Davidge_265 left the game
+[03Jan2025 16:25:34.967] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: grillo11[/[::1]:41548] logged in with entity id 5004 at (48.69999998807907, 91.0, -55.49340032320199)
+[03Jan2025 16:25:34.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo11 joined the game
+[03Jan2025 16:25:35.011] [Server thread/INFO] [Jade/]: Syncing config to grillo11 (adfb1a22-15e8-3424-8541-485b7a8795e2)
+[03Jan2025 16:26:06.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo11 has made the advancement [Monster Hunter]
+[03Jan2025 16:26:17.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [grillo11: Set the time to 1000]
+[03Jan2025 16:29:18.600] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pablopro845[/[::1]:59974] logged in with entity id 5598 at (12.5, 92.0, -30.5)
+[03Jan2025 16:29:18.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablopro845 joined the game
+[03Jan2025 16:29:18.642] [Server thread/INFO] [Jade/]: Syncing config to Pablopro845 (ad098b41-6f7b-3aba-ab4f-67c08ac366a2)

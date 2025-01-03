@@ -89,5 +89,17 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/nuclear_bomb": {
+    "criteria": {
+      "nuclear_bomb": "2025-01-03 16:16:39 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/raygun": {
+    "criteria": {
+      "raygun": "2025-01-03 16:24:41 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
