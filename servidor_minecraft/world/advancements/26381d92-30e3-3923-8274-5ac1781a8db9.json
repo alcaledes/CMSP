@@ -58,6 +58,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-01-03 17:15:36 +0000",
       "minecraft:creeper": "2025-01-03 16:26:28 +0000",
       "minecraft:zombie": "2025-01-01 16:48:41 +0000"
     },
@@ -111,11 +112,41 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-01-03 17:09:22 +0000"
+    },
+    "done": true
+  },
+  "armorplus:story/root": {
+    "criteria": {
+      "crafting_table": "2025-01-03 17:15:51 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/diving_armor": {
     "criteria": {
       "shirt": "2025-01-03 16:42:51 +0000"
     },
     "done": false
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2025-01-03 17:07:34 +0000"
+    },
+    "done": false
+  },
+  "armorplus:story/thank_you_6m": {
+    "criteria": {
+      "open_inventory": "2025-01-03 17:15:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-01-03 17:07:34 +0000"
+    },
+    "done": true
   },
   "alexscaves:alexscaves/deep_one_items": {
     "criteria": {
@@ -124,11 +155,23 @@
     },
     "done": false
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-01-03 17:05:58 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/gingerbread_armor": {
     "criteria": {
       "helmet": "2025-01-03 16:45:50 +0000"
     },
     "done": false
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-01-03 17:15:51 +0000"
+    },
+    "done": true
   },
   "minecraft:story/form_obsidian": {
     "criteria": {
@@ -139,6 +182,12 @@
   "alexscaves:alexscaves/raygun": {
     "criteria": {
       "raygun": "2025-01-03 16:24:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-01-03 17:09:06 +0000"
     },
     "done": true
   },

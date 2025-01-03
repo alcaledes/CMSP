@@ -8301,3 +8301,89 @@ java.lang.IllegalArgumentException: Book armorplus:guide_book has use_resource_p
 [03Jan2025 16:58:46.875] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of solarcraft:worldgen_features/ruins3
 [03Jan2025 16:59:14.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablopro845: Teleported Pablopro845 to grillo11]
 [03Jan2025 16:59:20.520] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_top_3 is being run through DFU (hash 87585b478e3870e6dfdc4175f0be09d3a47f732ee6eb6f8298cb860380951b38), this will cause launch time delays
+[03Jan2025 16:59:57.158] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 16:59:57.171] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 17:00:03.411] [pool-6-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga]] from pos BlockPos{x=-1445, y=73, z=5}
+[03Jan2025 17:00:07.005] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3463ms or 69 ticks behind
+[03Jan2025 17:00:07.739] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1445, y=73, z=5} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[03Jan2025 17:00:07.740] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=-1445, y=73, z=5}
+[03Jan2025 17:00:11.675] [Worker-Main-2/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-425,-56,-205],type:"minecraft:block"}}]
+[03Jan2025 17:00:11.683] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-185, y=-46, z=-142}
+[03Jan2025 17:00:11.690] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-292, y=-57, z=-313}
+[03Jan2025 17:00:11.690] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-294, y=-57, z=-313}
+[03Jan2025 17:00:11.690] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-296, y=-57, z=-313}
+[03Jan2025 17:00:14.581] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-423, y=-50, z=-211}
+[03Jan2025 17:00:14.581] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-420, y=-50, z=-211}
+[03Jan2025 17:00:14.591] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-151}
+[03Jan2025 17:00:14.591] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-143}
+[03Jan2025 17:00:14.599] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-291, y=-57, z=-315}
+[03Jan2025 17:00:14.599] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-295, y=-57, z=-315}
+[03Jan2025 17:00:14.599] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-293, y=-57, z=-315}
+[03Jan2025 17:00:15.570] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-418, y=-50, z=-208}
+[03Jan2025 17:00:15.577] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-176, y=-50, z=-133}
+[03Jan2025 17:00:15.578] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-50, z=-135}
+[03Jan2025 17:00:15.879] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-413, y=-49, z=-217}
+[03Jan2025 17:01:08.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]Rdrx_88: Teleported [MAGO]Rdrx_88 to [MAGO]chawito]
+[03Jan2025 17:02:37.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [grillo11: Set own game mode to Survival Mode]
+[03Jan2025 17:02:52.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]chawito: Removed 149 item(s) from 4 players]
+[03Jan2025 17:03:17.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [grillo11: Set own game mode to Creative Mode]
+[03Jan2025 17:03:22.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]chawito: Teleported [MAGO]chawito to [MAGO]Rdrx_88]
+[03Jan2025 17:03:24.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]Rdrx_88: Teleported 4 entities to [MAGO]Rdrx_88]
+[03Jan2025 17:03:31.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [grillo11: Set own game mode to Survival Mode]
+[03Jan2025 17:03:34.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablopro845 has made the advancement [Alex's Mobs]
+[03Jan2025 17:03:36.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [grillo11: Set the time to 1000]
+[03Jan2025 17:03:38.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]Rdrx_88: Set own game mode to Survival Mode]
+[03Jan2025 17:03:38.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]Rdrx_88: Set [MAGO]chawito's game mode to Survival Mode]
+[03Jan2025 17:03:38.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]Rdrx_88: Set Pablopro845's game mode to Survival Mode]
+[03Jan2025 17:03:40.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]chawito: Added 4 members to team [MAGO]]
+[03Jan2025 17:04:57.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]Pablopro845 has made the advancement [Stone Age]
+[03Jan2025 17:05:00.601] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 17:05:00.615] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 17:05:19.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]grillo11 has made the advancement [Stone Age]
+[03Jan2025 17:05:58.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]chawito has made the advancement [Getting an Upgrade]
+[03Jan2025 17:06:21.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]grillo11 has made the advancement [Getting an Upgrade]
+[03Jan2025 17:07:17.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]Pablopro845 has made the advancement [Getting an Upgrade]
+[03Jan2025 17:09:06.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]chawito has made the advancement [Acquire Hardware]
+[03Jan2025 17:09:22.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]chawito has made the advancement [Isn't It Iron Pick]
+[03Jan2025 17:09:23.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]Pablopro845 was slain by Kobblin
+[03Jan2025 17:09:27.116] [Server thread/DEBUG] [twilightforest/]: Player Pablopro845 (ad098b41-6f7b-3aba-ab4f-67c08ac366a2) respawned and received items held in storage
+[03Jan2025 17:09:51.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]Pablopro845 fell from a high place
+[03Jan2025 17:09:52.384] [Server thread/DEBUG] [twilightforest/]: Player Pablopro845 (ad098b41-6f7b-3aba-ab4f-67c08ac366a2) respawned and received items held in storage
+[03Jan2025 17:10:00.605] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 17:10:00.619] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 17:11:54.055] [pool-6-thread-3/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert]] from pos BlockPos{x=-875, y=83, z=101}
+[03Jan2025 17:11:54.522] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-875, y=83, z=101} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=true] at location
+[03Jan2025 17:11:54.522] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=true] but failed at location BlockPos{x=-875, y=83, z=101}
+[03Jan2025 17:15:00.623] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 17:15:00.639] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 17:15:19.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]Rdrx_88: Set the time to 1000]
+[03Jan2025 17:16:08.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]Rdrx_88 has made the advancement [Stone Age]
+[03Jan2025 17:18:10.614] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: chawito lost connection: Timed out
+[03Jan2025 17:18:10.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]chawito left the game
+[03Jan2025 17:19:28.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]Rdrx_88 has made the advancement [Getting an Upgrade]
+[03Jan2025 17:20:00.598] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 17:20:00.612] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 17:21:23.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]grillo11 has made the advancement [Acquire Hardware]
+[03Jan2025 17:23:34.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]grillo11 was slain by Husk
+[03Jan2025 17:23:35.731] [Server thread/DEBUG] [twilightforest/]: Player grillo11 (adfb1a22-15e8-3424-8541-485b7a8795e2) respawned and received items held in storage
+[03Jan2025 17:23:43.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]Rdrx_88: Applied effect Night Vision to 3 targets]
+[03Jan2025 17:23:50.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]grillo11 was slain by Husk
+[03Jan2025 17:23:51.332] [Server thread/DEBUG] [twilightforest/]: Player grillo11 (adfb1a22-15e8-3424-8541-485b7a8795e2) respawned and received items held in storage
+[03Jan2025 17:24:12.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]grillo11 was doomed to fall by Husk
+[03Jan2025 17:24:12.752] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 4 in "main" inventory handler
+[03Jan2025 17:24:13.967] [Server thread/DEBUG] [twilightforest/]: Player grillo11 (adfb1a22-15e8-3424-8541-485b7a8795e2) respawned and received items held in storage
+[03Jan2025 17:24:25.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]Pablopro845 was slain by Crab
+[03Jan2025 17:24:27.423] [Server thread/DEBUG] [twilightforest/]: Player Pablopro845 (ad098b41-6f7b-3aba-ab4f-67c08ac366a2) respawned and received items held in storage
+[03Jan2025 17:25:00.601] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 17:25:00.619] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 17:25:17.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]grillo11 has made the advancement [Sweet Dreams]
+[03Jan2025 17:27:07.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]Rdrx_88 has made the advancement [Monster Hunter]
+[03Jan2025 17:27:33.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]Pablopro845 was shot by Skeleton
+[03Jan2025 17:27:34.838] [Server thread/DEBUG] [twilightforest/]: Player Pablopro845 (ad098b41-6f7b-3aba-ab4f-67c08ac366a2) respawned and received items held in storage
+[03Jan2025 17:27:45.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]Rdrx_88: Set the time to 1000]
+[03Jan2025 17:28:23.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]Pablopro845 has made the advancement [Monster Hunter]
+[03Jan2025 17:30:00.614] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 17:30:00.629] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 17:30:03.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]Rdrx_88 has made the advancement [The Dark (Chocolate) Tower]
+[03Jan2025 17:30:03.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]Rdrx_88 fell from a high place
+[03Jan2025 17:30:04.952] [Server thread/DEBUG] [twilightforest/]: Player Rdrx_88 (6d7cf8d7-6f38-3d4c-ac99-07bc9eee2e22) respawned and received items held in storage
