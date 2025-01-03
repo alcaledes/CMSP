@@ -11,17 +11,23 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:savanna": "2025-01-03 16:04:37 +0000"
-    },
-    "done": false
-  },
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2025-01-03 16:04:36 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-01-03 16:54:52 +0000",
+      "minecraft:river": "2025-01-03 16:54:51 +0000",
+      "minecraft:forest": "2025-01-03 16:54:30 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-01-03 16:54:49 +0000",
+      "minecraft:old_growth_birch_forest": "2025-01-03 16:54:45 +0000",
+      "minecraft:savanna": "2025-01-03 16:04:37 +0000",
+      "minecraft:plains": "2025-01-03 16:54:26 +0000"
+    },
+    "done": false
   },
   "divinerpg:overworld/root": {
     "criteria": {

@@ -21,6 +21,7 @@
     "criteria": {
       "minecraft:lukewarm_ocean": "2025-01-03 16:34:49 +0000",
       "minecraft:stony_shore": "2025-01-03 16:34:39 +0000",
+      "minecraft:deep_dark": "2025-01-03 16:47:01 +0000",
       "minecraft:savanna": "2025-01-01 16:24:46 +0000"
     },
     "done": false
@@ -122,6 +123,18 @@
       "ortholance": "2025-01-03 16:41:26 +0000"
     },
     "done": false
+  },
+  "alexscaves:alexscaves/gingerbread_armor": {
+    "criteria": {
+      "helmet": "2025-01-03 16:45:50 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-01-03 16:50:14 +0000"
+    },
+    "done": true
   },
   "alexscaves:alexscaves/raygun": {
     "criteria": {

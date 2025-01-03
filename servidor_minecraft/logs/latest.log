@@ -672,3 +672,88 @@ java.lang.IllegalArgumentException: Book armorplus:guide_book has use_resource_p
 [03Jan2025 16:47:31.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]chawito was killed
 [03Jan2025 16:47:31.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablopro845: Killed [MAGO]chawito]
 [03Jan2025 16:48:08.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablopro845: Teleported Pablopro845 to [MAGO]chawito]
+[03Jan2025 16:50:14.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]chawito has made the advancement [Ice Bucket Challenge]
+[03Jan2025 16:50:41.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablopro845: Set [MAGO]chawito's game mode to Survival Mode]
+[03Jan2025 16:51:04.809] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rdrx_88[/[::1]:49926] logged in with entity id 10745 at (21.120818374414853, 130.0, -25.766217810975576)
+[03Jan2025 16:51:04.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]Rdrx_88 joined the game
+[03Jan2025 16:51:04.850] [Server thread/INFO] [Jade/]: Syncing config to Rdrx_88 (6d7cf8d7-6f38-3d4c-ac99-07bc9eee2e22)
+[03Jan2025 16:51:08.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]chawito: Set own game mode to Creative Mode]
+[03Jan2025 16:51:35.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]Rdrx_88: Removed 167 item(s) from 4 players]
+[03Jan2025 16:51:39.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]chawito was killed
+[03Jan2025 16:51:39.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablopro845: Killed [MAGO]chawito]
+[03Jan2025 16:51:40.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]chawito was killed
+[03Jan2025 16:51:40.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablopro845: Killed [MAGO]chawito]
+[03Jan2025 16:51:42.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]chawito was killed
+[03Jan2025 16:51:42.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablopro845: Killed [MAGO]chawito]
+[03Jan2025 16:51:44.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablopro845: Killed [MAGO]chawito]
+[03Jan2025 16:51:45.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]Rdrx_88: Teleported 4 entities to [MAGO]Rdrx_88]
+[03Jan2025 16:51:45.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]chawito was killed
+[03Jan2025 16:51:45.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablopro845: Killed [MAGO]chawito]
+[03Jan2025 16:51:56.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[03Jan2025 16:52:50.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]chawito: Set the time to 1000]
+[03Jan2025 16:53:00.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]Rdrx_88: Removed 74 item(s) from 4 players]
+[03Jan2025 16:53:02.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]chawito: Kicked Pablopro845: Kicked by an operator]
+[03Jan2025 16:53:02.848] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pablopro845 lost connection: Kicked by an operator
+[03Jan2025 16:53:02.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablopro845 left the game
+[03Jan2025 16:53:06.861] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pablopro845[/[::1]:55014] logged in with entity id 11133 at (59.22057194773691, 98.34326425394556, -38.55166321843672)
+[03Jan2025 16:53:06.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablopro845 joined the game
+[03Jan2025 16:53:06.907] [Server thread/INFO] [Jade/]: Syncing config to Pablopro845 (ad098b41-6f7b-3aba-ab4f-67c08ac366a2)
+[03Jan2025 16:53:11.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]chawito: Kicked Pablopro845: Kicked by an operator]
+[03Jan2025 16:53:11.548] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pablopro845 lost connection: Kicked by an operator
+[03Jan2025 16:53:11.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablopro845 left the game
+[03Jan2025 16:53:15.367] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pablopro845[/[::1]:55026] logged in with entity id 11158 at (59.26201244495002, 98.34326425394556, -38.52551981543873)
+[03Jan2025 16:53:15.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablopro845 joined the game
+[03Jan2025 16:53:15.410] [Server thread/INFO] [Jade/]: Syncing config to Pablopro845 (ad098b41-6f7b-3aba-ab4f-67c08ac366a2)
+[03Jan2025 16:53:20.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]chawito: Kicked Pablopro845: Kicked by an operator]
+[03Jan2025 16:53:20.297] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pablopro845 lost connection: Kicked by an operator
+[03Jan2025 16:53:20.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablopro845 left the game
+[03Jan2025 16:53:26.959] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pablopro845[/[::1]:56418] logged in with entity id 11181 at (59.80054394602393, 98.34326425394556, -27.514649460665108)
+[03Jan2025 16:53:26.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablopro845 joined the game
+[03Jan2025 16:53:27.004] [Server thread/INFO] [Jade/]: Syncing config to Pablopro845 (ad098b41-6f7b-3aba-ab4f-67c08ac366a2)
+[03Jan2025 16:53:39.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]Rdrx_88: Removed 5 item(s) from 4 players]
+[03Jan2025 16:53:46.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]chawito: Made Pablopro845 no longer a server operator]
+[03Jan2025 16:54:17.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]chawito: Set Pablopro845's game mode to Adventure Mode]
+[03Jan2025 16:54:29.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]chawito: Made Pablopro845 a server operator]
+[03Jan2025 16:54:31.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablopro845 fell from a high place
+[03Jan2025 16:54:38.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablopro845 fell from a high place
+[03Jan2025 16:54:58.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablopro845: Set own game mode to Creative Mode]
+[03Jan2025 16:55:28.186] [Worker-Main-1/INFO] [ModernFix/]: Instantiating Mojang DFU
+[03Jan2025 16:55:53.489] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-45, z=-85}
+[03Jan2025 16:55:53.490] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-41, z=-89}
+[03Jan2025 16:55:53.491] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-92}
+[03Jan2025 16:55:53.491] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-93}
+[03Jan2025 16:55:53.491] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-175, y=-41, z=-90}
+[03Jan2025 16:55:53.511] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-274, y=-57, z=-245}
+[03Jan2025 16:55:53.511] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-277, y=-57, z=-244}
+[03Jan2025 16:55:53.551] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-195, y=-54, z=-92}
+[03Jan2025 16:55:53.551] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-88}
+[03Jan2025 16:55:53.552] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-85}
+[03Jan2025 16:55:53.553] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-51, z=-89}
+[03Jan2025 16:55:53.553] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-50, z=-90}
+[03Jan2025 16:55:53.555] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-45, z=-87}
+[03Jan2025 16:55:53.555] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-84}
+[03Jan2025 16:55:55.722] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-74}
+[03Jan2025 16:55:55.723] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-77}
+[03Jan2025 16:55:55.723] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-50, z=-72}
+[03Jan2025 16:55:55.723] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-184, y=-45, z=-75}
+[03Jan2025 16:55:55.777] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-177, y=-55, z=-77}
+[03Jan2025 16:55:55.778] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-181, y=-50, z=-73}
+[03Jan2025 16:55:55.778] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-182, y=-45, z=-75}
+[03Jan2025 16:55:55.778] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-70}
+[03Jan2025 16:55:55.787] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-276, y=-57, z=-243}
+[03Jan2025 16:57:29.242] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-50, z=-279}
+[03Jan2025 16:57:29.243] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-57, z=-280}
+[03Jan2025 16:57:29.343] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-283, y=-56, z=-275}
+[03Jan2025 16:57:49.595] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-204}
+[03Jan2025 16:57:49.596] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=-45, z=-203}
+[03Jan2025 16:57:49.596] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-202}
+[03Jan2025 16:57:49.640] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-289, y=-57, z=-281}
+[03Jan2025 16:57:49.640] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-56, z=-283}
+[03Jan2025 16:57:49.640] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-57, z=-283}
+[03Jan2025 16:58:10.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]Rdrx_88 has reached the goal [Pure Imagination]
+[03Jan2025 16:58:18.171] [pool-6-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy]] from pos BlockPos{x=-1147, y=69, z=965}
+[03Jan2025 16:58:20.124] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pablopro845 moved too quickly! -7.1856196250300854,0.0,8.133493842612324
+[03Jan2025 16:58:22.371] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3878ms or 77 ticks behind
+[03Jan2025 16:58:22.421] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pablopro845 moved too quickly! -6.680567580033653,0.0,8.241468286493273
+[03Jan2025 16:58:22.427] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rdrx_88 moved too quickly! 0.7484683944453536,9.561345313732687,-3.0487484089421173
+[03Jan2025 16:59:14.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablopro845: Teleported Pablopro845 to grillo11]
