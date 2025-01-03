@@ -7410,3 +7410,23 @@ java.lang.IllegalArgumentException: Book armorplus:guide_book has use_resource_p
 [03Jan2025 16:38:52.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]chawito: Set Pablopro845's game mode to Survival Mode]
 [03Jan2025 16:39:09.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]chawito: Set Pablopro845's game mode to Creative Mode]
 [03Jan2025 16:39:19.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]chawito has made the advancement [Masquerade]
+[03Jan2025 16:39:38.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [grillo11: Set the time to 1000]
+[03Jan2025 16:39:53.287] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 16:39:53.301] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 16:44:53.273] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 16:44:53.287] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 16:45:30.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]chawito: Set grillo11's game mode to Survival Mode]
+[03Jan2025 16:45:41.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]chawito: Set grillo11's game mode to Creative Mode]
+[03Jan2025 16:45:59.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablopro845 was killed
+[03Jan2025 16:45:59.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablopro845: Killed Pablopro845]
+[03Jan2025 16:46:00.649] [Server thread/DEBUG] [twilightforest/]: Player Pablopro845 (ad098b41-6f7b-3aba-ab4f-67c08ac366a2) respawned and received items held in storage
+[03Jan2025 16:46:34.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablopro845: Set [MAGO]chawito's game mode to Spectator Mode]
+[03Jan2025 16:47:12.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]chawito: Teleported Pablopro845 to [MAGO]chawito]
+[03Jan2025 16:47:16.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablopro845 fell out of the world
+[03Jan2025 16:47:18.114] [Server thread/DEBUG] [twilightforest/]: Player Pablopro845 (ad098b41-6f7b-3aba-ab4f-67c08ac366a2) respawned and received items held in storage
+[03Jan2025 16:47:20.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]chawito: Teleported [MAGO]chawito to grillo11]
+[03Jan2025 16:47:28.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]chawito: Set own game mode to Creative Mode]
+[03Jan2025 16:47:31.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]chawito was killed
+[03Jan2025 16:47:31.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablopro845: Killed [MAGO]chawito]
+[03Jan2025 16:47:33.314] [Server thread/DEBUG] [twilightforest/]: Player chawito (26381d92-30e3-3923-8274-5ac1781a8db9) respawned and received items held in storage
+[03Jan2025 16:48:08.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablopro845: Teleported Pablopro845 to [MAGO]chawito]

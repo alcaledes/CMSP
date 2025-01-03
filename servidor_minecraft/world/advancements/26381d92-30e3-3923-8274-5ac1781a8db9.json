@@ -104,6 +104,25 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_umvuthana_raptor": {
+    "criteria": {
+      "umvuthana_raptor": "2025-01-03 16:39:19 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/diving_armor": {
+    "criteria": {
+      "shirt": "2025-01-03 16:42:51 +0000"
+    },
+    "done": false
+  },
+  "alexscaves:alexscaves/deep_one_items": {
+    "criteria": {
+      "sea_staff": "2025-01-03 16:38:39 +0000",
+      "ortholance": "2025-01-03 16:41:26 +0000"
+    },
+    "done": false
+  },
   "alexscaves:alexscaves/raygun": {
     "criteria": {
       "raygun": "2025-01-03 16:24:41 +0000"

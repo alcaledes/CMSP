@@ -11,17 +11,17 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:savanna": "2025-01-03 16:29:19 +0000"
-    },
-    "done": false
-  },
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2025-01-03 16:29:18 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:savanna": "2025-01-03 16:29:19 +0000"
+    },
+    "done": false
   },
   "divinerpg:overworld/root": {
     "criteria": {
