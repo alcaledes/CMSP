@@ -19,6 +19,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:lukewarm_ocean": "2025-01-03 16:34:49 +0000",
+      "minecraft:stony_shore": "2025-01-03 16:34:39 +0000",
       "minecraft:savanna": "2025-01-01 16:24:46 +0000"
     },
     "done": false
@@ -55,6 +57,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:creeper": "2025-01-03 16:26:28 +0000",
       "minecraft:zombie": "2025-01-01 16:48:41 +0000"
     },
     "done": false
@@ -86,6 +89,12 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_helmet": "2025-01-02 16:08:41 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/ride_submarine": {
+    "criteria": {
+      "ride_a_boat_with_a_goat": "2025-01-03 16:34:46 +0000"
     },
     "done": true
   },
