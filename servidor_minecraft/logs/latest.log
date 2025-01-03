@@ -566,3 +566,23 @@ java.lang.IllegalArgumentException: Book armorplus:guide_book has use_resource_p
 [03Jan2025 20:32:59.612] [Server thread/INFO] [Jade/]: Syncing config to Rdrx_88 (6d7cf8d7-6f38-3d4c-ac99-07bc9eee2e22)
 [03Jan2025 20:37:17.667] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: chawito lost connection: Timed out
 [03Jan2025 20:37:17.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]chawito left the game
+[03Jan2025 20:46:26.634] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: chawito[/[::1]:51628] logged in with entity id 4053 at (78.50102750372974, 28.0, -18.69999998807907)
+[03Jan2025 20:46:26.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]chawito joined the game
+[03Jan2025 20:46:26.725] [Server thread/INFO] [Jade/]: Syncing config to chawito (26381d92-30e3-3923-8274-5ac1781a8db9)
+[03Jan2025 20:50:59.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]chawito has made the advancement [Not Today, Thank You]
+[03Jan2025 20:55:19.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[MAGO]Rdrx_88> [x:-1128, y:63, z:-152, dim:minecraft:overworld]
+[03Jan2025 20:57:20.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]Rdrx_88 has made the advancement [Ghost Riders In The Sky]
+[03Jan2025 20:57:26.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]Rdrx_88 has made the advancement [Cover Me with Diamonds]
+[03Jan2025 20:57:56.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]Rdrx_88 was doomed to fall by Wither Skeleton
+[03Jan2025 20:58:32.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]chawito was slain by Rotatick
+[03Jan2025 20:58:37.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]Rdrx_88 was doomed to fall
+[03Jan2025 20:59:28.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MAGO]chawito: Applied effect Night Vision to 2 targets]
+[03Jan2025 21:00:25.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]chawito has made the advancement [Eye of Evil]
+[03Jan2025 21:00:30.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]chawito tried to swim in lava to escape Enthralled Dramcryx
+[03Jan2025 21:00:54.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]chawito tried to swim in lava
+[03Jan2025 21:01:14.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]chawito burned to death
+[03Jan2025 21:01:14.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]Rdrx_88 has made the advancement [Ice Bucket Challenge]
+[03Jan2025 21:01:23.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]chawito tried to swim in lava
+[03Jan2025 21:01:30.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]chawito tried to swim in lava
+[03Jan2025 21:01:36.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]Rdrx_88 was slain by Wither Skeleton
+[03Jan2025 21:01:40.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGO]chawito tried to swim in lava
